@@ -10,13 +10,20 @@ Une application web interactive pour choisir le canoë parfait selon vos besoins
 
 ## 🎥 Démo Live
 
-**🚀 Essayez l'app :**
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/renedragon/choisirsoncanoe)
+
+**🚀 Déploiement Vercel :**
+1. Cliquez sur "Deploy with Vercel" ☝️
+2. Connectez votre compte GitHub
+3. L'app se déploie automatiquement !
+
+**💻 Développement local :**
 1. Clone le repo : `git clone https://github.com/renedragon/choisirsoncanoe.git`
 2. Install : `pip install -r requirements.txt`
 3. Run : `python app.py`
 4. Ouvrez : http://127.0.0.1:5000
 
-**🔐 Admin Demo :** http://127.0.0.1:5000/admin/login
+**🔐 Admin Demo :** `/admin/login`
 - User: `admin` / Pass: `canoe2025!`
 
 ## ✨ Fonctionnalités
