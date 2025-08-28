@@ -1,6 +1,23 @@
 # 🛶 ChoisirSonCanoe
 
+![Flask](https://img.shields.io/badge/Flask-3.0.0-blue?logo=flask)
+![Python](https://img.shields.io/badge/Python-3.8+-green?logo=python)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Canoes](https://img.shields.io/badge/Canoes-43-orange)
+![Responsive](https://img.shields.io/badge/Responsive-✓-brightgreen)
+
 Une application web interactive pour choisir le canoë parfait selon vos besoins et préférences.
+
+## 🎥 Démo Live
+
+**🚀 Essayez l'app :**
+1. Clone le repo : `git clone https://github.com/renedragon/choisirsoncanoe.git`
+2. Install : `pip install -r requirements.txt`
+3. Run : `python app.py`
+4. Ouvrez : http://127.0.0.1:5000
+
+**🔐 Admin Demo :** http://127.0.0.1:5000/admin/login
+- User: `admin` / Pass: `canoe2025!`
 
 ## ✨ Fonctionnalités
 
