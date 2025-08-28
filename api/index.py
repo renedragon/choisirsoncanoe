@@ -14,16 +14,23 @@ ADMIN_USERS = {
 
 # Charger les données des canoës avec liens finaux
 def load_canoes_data():
-    # Path relatif pour Vercel
-    data_path = os.path.join(os.path.dirname(__file__), '..', 'canoes_data_final.json')
-    try:
-        with open(data_path, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    except FileNotFoundError:
-        # Fallback pour développement local
-        local_path = os.path.join(os.path.dirname(__file__), '..', 'canoes_data.json')
-        with open(local_path, 'r', encoding='utf-8') as f:
-            return json.load(f)
+    # Chercher le fichier de données dans plusieurs emplacements
+    possible_paths = [
+        os.path.join(os.path.dirname(__file__), '..', 'canoes_data_final.json'),
+        os.path.join(os.path.dirname(__file__), '..', 'canoes_data.json'),
+        'canoes_data_final.json',
+        'canoes_data.json'
+    ]
+    
+    for path in possible_paths:
+        try:
+            with open(path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except FileNotFoundError:
+            continue
+    
+    # Si aucun fichier n'est trouvé, retourner des données par défaut
+    return []
 
 canoes = load_canoes_data()
 
@@ -175,8 +182,15 @@ def delete_canoe(modele):
     return jsonify({'error': 'Fonctionnalité désactivée en production (filesystem read-only)'}), 403
 
 # Point d'entrée pour Vercel
+app.config['TEMPLATES_AUTO_RELOAD'] = True
+
+# Pour Vercel
 def handler(request):
     return app(request)
+
+# Export pour Vercel
+def application(environ, start_response):
+    return app(environ, start_response)
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
