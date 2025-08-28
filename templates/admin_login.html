@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administration - ChoisirSonCanoe 🛶</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔐 Administration ChoisirSonCanoe</h1>
+            <p>Connectez-vous pour gérer les canoës</p>
+        </div>
+
+        <div class="login-form">
+            <div class="demo-info">
+                <p><strong>🎯 Démo Admin</strong></p>
+                <p>Identifiants pré-remplis pour la démo</p>
+            </div>
+            
+            <form id="loginForm" method="POST">
+                <div class="form-group">
+                    <label for="username">👤 Nom d'utilisateur</label>
+                    <input type="text" id="username" name="username" value="admin" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="password">🔑 Mot de passe</label>
+                    <input type="password" id="password" name="password" value="canoe2025!" required>
+                </div>
+                
+                <button type="submit" class="btn-primary">Se connecter</button>
+            </form>
+            
+            {% if error %}
+                <div class="error-message">
+                    ❌ {{ error }}
+                </div>
+            {% endif %}
+        </div>
+
+        <div class="back-link">
+            <a href="/" class="btn-secondary">← Retour à l'accueil</a>
+        </div>
+    </div>
+
+    <style>
+        .login-form {
+            max-width: 400px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+        }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+            color: #2c5530;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 0.8rem;
+            border: 2px solid #e1f5fe;
+            border-radius: 10px;
+            font-size: 1rem;
+            transition: border-color 0.3s ease;
+            box-sizing: border-box;
+        }
+
+        .form-group input:focus {
+            outline: none;
+            border-color: #4fc3f7;
+            box-shadow: 0 0 0 3px rgba(79, 195, 247, 0.1);
+        }
+
+        .error-message {
+            background: rgba(244, 67, 54, 0.1);
+            border: 2px solid #f44336;
+            border-radius: 10px;
+            padding: 1rem;
+            margin-top: 1rem;
+            text-align: center;
+            color: #c62828;
+        }
+
+        .back-link {
+            text-align: center;
+            margin-top: 2rem;
+        }
+
+        .demo-info {
+            background: rgba(79, 195, 247, 0.1);
+            border: 2px solid #4fc3f7;
+            border-radius: 10px;
+            padding: 1rem;
+            margin-bottom: 1.5rem;
+            text-align: center;
+        }
+
+        .demo-info p {
+            margin: 0.2rem 0;
+            color: #2c5530;
+        }
+    </style>
+</body>
+</html>

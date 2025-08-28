@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Choisir Son Canoë - Trouvez votre compagnon d'aventure!</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="bubble-container">
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+    </div>
+
+    <div class="container">
+        <header class="kawaii-header">
+            <div class="wave-top"></div>
+            <div class="header-content">
+                <div class="logo-wrapper">
+                    <span class="logo-emoji">🦆</span>
+                    <h1>Choisir Son Canoë</h1>
+                    <span class="logo-emoji">🌊</span>
+                </div>
+                <p class="subtitle">✨ Trouvez le canoë parfait pour vos aventures aquatiques ✨</p>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <div class="form-card kawaii-card">
+                <div class="card-header">
+                    <span class="card-icon">🎯</span>
+                    <h2>Vos Préférences</h2>
+                </div>
+                
+                <form id="criteriaForm">
+                    <div class="form-section">
+                        <h3 class="section-title">
+                            <span class="section-icon">👤</span>
+                            Informations de base
+                        </h3>
+                        
+                        <div class="form-group">
+                            <label for="niveau">
+                                <span class="label-icon">⭐</span>
+                                Votre niveau
+                            </label>
+                            <select id="niveau" name="niveau" class="kawaii-select">
+                                <option value="1">🌱 Débutant</option>
+                                <option value="2">🌿 Novice</option>
+                                <option value="3" selected>🌳 Intermédiaire</option>
+                                <option value="4">🦅 Avancé</option>
+                                <option value="5">🏆 Expert</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="categorie">
+                                <span class="label-icon">📦</span>
+                                Catégorie d'activité
+                            </label>
+                            <select id="categorie" name="categorie" class="kawaii-select">
+                                <option value="">Toutes les catégories</option>
+                                <option value="Canoes loisirs">🏖️ Loisirs</option>
+                                <option value="Canoe riviere">🏞️ Rivière</option>
+                                <option value="Canoe Eau vive">💨 Eau vive</option>
+                                <option value="Canoe peche- cahasse">🎣 Pêche-Chasse</option>
+                                <option value="Canoe gonflable">🎈 Gonflable</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="usage">
+                                <span class="label-icon">🗺️</span>
+                                Usage principal
+                            </label>
+                            <select id="usage" name="usage" class="kawaii-select">
+                                <option value="etang_lac">🏞️ Étang / Lac</option>
+                                <option value="riviere_classe_I_II">🌊 Rivière classe I-II</option>
+                                <option value="riviere_classe_III_IV">🌀 Rivière classe III-IV</option>
+                                <option value="torrent">⚡ Torrent</option>
+                                <option value="canot_camping">🏕️ Canot-camping</option>
+                                <option value="expedition_sportive">🗻 Expédition sportive</option>
+                                <option value="surf">🏄 Surf</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="nb_personnes">
+                                <span class="label-icon">👥</span>
+                                Nombre de personnes
+                            </label>
+                            <select id="nb_personnes" name="nb_personnes" class="kawaii-select">
+                                <option value="1">👤 Solo</option>
+                                <option value="2">👥 Duo</option>
+                                <option value="3">👨‍👩‍👦 3 personnes</option>
+                                <option value="4">👨‍👩‍👧‍👦 4 personnes</option>
+                                <option value="5">👨‍👩‍👧‍👦‍👨 5 personnes</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-section">
+                        <h3 class="section-title">
+                            <span class="section-icon">✨</span>
+                            Importance des caractéristiques
+                        </h3>
+                        
+                        <div class="slider-group">
+                            <div class="slider-item">
+                                <label for="pref_vitesse">
+                                    <span class="slider-icon">🚀</span>
+                                    Vitesse
+                                </label>
+                                <div class="slider-wrapper">
+                                    <input type="range" id="pref_vitesse" name="pref_vitesse" min="1" max="5" value="3" class="kawaii-slider">
+                                    <div class="slider-value">
+                                        <span class="value-display">3</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="slider-item">
+                                <label for="pref_stabilite">
+                                    <span class="slider-icon">⚖️</span>
+                                    Stabilité
+                                </label>
+                                <div class="slider-wrapper">
+                                    <input type="range" id="pref_stabilite" name="pref_stabilite" min="1" max="5" value="3" class="kawaii-slider">
+                                    <div class="slider-value">
+                                        <span class="value-display">3</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="slider-item">
+                                <label for="pref_maniabilite">
+                                    <span class="slider-icon">🎮</span>
+                                    Maniabilité
+                                </label>
+                                <div class="slider-wrapper">
+                                    <input type="range" id="pref_maniabilite" name="pref_maniabilite" min="1" max="5" value="3" class="kawaii-slider">
+                                    <div class="slider-value">
+                                        <span class="value-display">3</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="slider-item">
+                                <label for="pref_chargement">
+                                    <span class="slider-icon">📦</span>
+                                    Chargement
+                                </label>
+                                <div class="slider-wrapper">
+                                    <input type="range" id="pref_chargement" name="pref_chargement" min="1" max="5" value="3" class="kawaii-slider">
+                                    <div class="slider-value">
+                                        <span class="value-display">3</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="kawaii-button">
+                        <span class="button-icon">🔮</span>
+                        Trouver mon canoë parfait!
+                        <span class="button-icon">✨</span>
+                    </button>
+                </form>
+            </div>
+
+            <div class="results-card kawaii-card">
+                <div class="card-header">
+                    <span class="card-icon">🏆</span>
+                    <h2>Nos Recommandations</h2>
+                </div>
+                
+                <div id="results">
+                    <div class="empty-state">
+                        <div class="empty-icon">🛶</div>
+                        <p>Remplissez le formulaire pour découvrir<br>les canoës parfaits pour vous!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="all-canoes-section kawaii-card">
+            <div class="card-header">
+                <span class="card-icon">📚</span>
+                <h2>Catalogue Complet</h2>
+            </div>
+            
+            <div class="filter-bar">
+                <div class="search-wrapper">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" id="searchInput" placeholder="Rechercher un modèle..." class="kawaii-input">
+                </div>
+                <select id="categoryFilter" class="kawaii-select">
+                    <option value="">🌈 Toutes les catégories</option>
+                </select>
+            </div>
+            
+            <div id="allCanoes" class="canoes-grid"></div>
+        </div>
+    </div>
+
+    <footer class="kawaii-footer">
+        <div class="wave-bottom"></div>
+        <p>Fait avec 💖 pour les amateurs de canoë</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

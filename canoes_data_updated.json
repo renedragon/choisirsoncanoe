@@ -1,0 +1,1755 @@
+[
+  {
+    "categorie": "Canoes loisirs",
+    "modele": "Adirondack",
+    "specifications": {
+      "longueur_pieds": "12",
+      "longueur_m": "3,66",
+      "poids_kg": "16,5",
+      "nb_max_pagayeurs": 1
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 1.0,
+      "possibilite_chargement": 2.0,
+      "vitesse": 4.0,
+      "maniabilite": 5.0,
+      "stabilite_primaire": 6.0,
+      "stabilite_secondaire": 2.0,
+      "stabilite_directionnelle": 4.0
+    },
+    "aptitudes": {
+      "etang_lac": 6.0,
+      "riviere_classe_I_II": 4.0,
+      "riviere_classe_III_IV": 1.0,
+      "torrent": 0.0,
+      "canot_camping": 5.0,
+      "expedition_sportive": 2.0,
+      "surf": 3.0
+    },
+    "image_url": null,
+    "emoji": "🛶",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-adirondack/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-adirondack",
+      "https://www.canoediffusion.com/produit/adirondack",
+      "https://www.canoediffusion.com/adirondack"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-adirondack/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoes loisirs",
+    "modele": "Echo",
+    "specifications": {
+      "longueur_pieds": "14",
+      "longueur_m": "4,30",
+      "poids_kg": "18,5",
+      "nb_max_pagayeurs": 1
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 1.0,
+      "possibilite_chargement": 2.0,
+      "vitesse": 5.0,
+      "maniabilite": 5.0,
+      "stabilite_primaire": 6.0,
+      "stabilite_secondaire": 3.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 6.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 1.0,
+      "torrent": 0.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 2.0,
+      "surf": 4.0
+    },
+    "image_url": null,
+    "emoji": "🛶",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-echo-vinyle/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-echo",
+      "https://www.canoediffusion.com/produit/echo",
+      "https://www.canoediffusion.com/echo"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-echo-vinyle/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoes loisirs",
+    "modele": "Ontario 13",
+    "specifications": {
+      "longueur_pieds": "13",
+      "longueur_m": "4,10",
+      "poids_kg": "25",
+      "nb_max_pagayeurs": 1
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 1.0,
+      "possibilite_chargement": 2.0,
+      "vitesse": 4.0,
+      "maniabilite": 4.0,
+      "stabilite_primaire": 6.0,
+      "stabilite_secondaire": 2.0,
+      "stabilite_directionnelle": 4.0
+    },
+    "aptitudes": {
+      "etang_lac": 6.0,
+      "riviere_classe_I_II": 4.0,
+      "riviere_classe_III_IV": 1.0,
+      "torrent": 0.0,
+      "canot_camping": 5.0,
+      "expedition_sportive": 2.0,
+      "surf": 3.0
+    },
+    "image_url": null,
+    "emoji": "🛶",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-ace-ontario-13-duo/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-ontario-13",
+      "https://www.canoediffusion.com/produit/ontario-13",
+      "https://www.canoediffusion.com/ontario-13"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-ace-ontario-13-duo/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoes loisirs",
+    "modele": "Scout",
+    "specifications": {
+      "longueur_pieds": "14,6",
+      "longueur_m": "4,40",
+      "poids_kg": "28",
+      "nb_max_pagayeurs": 2
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 1.0,
+      "possibilite_chargement": 4.0,
+      "vitesse": 3.0,
+      "maniabilite": 3.0,
+      "stabilite_primaire": 6.0,
+      "stabilite_secondaire": 2.0,
+      "stabilite_directionnelle": 4.0
+    },
+    "aptitudes": {
+      "etang_lac": 6.0,
+      "riviere_classe_I_II": 4.0,
+      "riviere_classe_III_IV": 1.0,
+      "torrent": 0.0,
+      "canot_camping": 5.0,
+      "expedition_sportive": 3.0,
+      "surf": 3.0
+    },
+    "image_url": null,
+    "emoji": "🛶",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-scout/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-scout",
+      "https://www.canoediffusion.com/produit/scout",
+      "https://www.canoediffusion.com/scout"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-scout/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoes loisirs",
+    "modele": "Ontario 15",
+    "specifications": {
+      "longueur_pieds": "15",
+      "longueur_m": "4,60",
+      "poids_kg": "31,5",
+      "nb_max_pagayeurs": 2
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 2.0,
+      "possibilite_chargement": 3.0,
+      "vitesse": 4.0,
+      "maniabilite": 4.0,
+      "stabilite_primaire": 6.0,
+      "stabilite_secondaire": 3.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 6.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 1.0,
+      "torrent": 0.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 2.0,
+      "surf": 3.0
+    },
+    "image_url": null,
+    "emoji": "🛶",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-ace-ontario-15/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-ontario-15",
+      "https://www.canoediffusion.com/produit/ontario-15",
+      "https://www.canoediffusion.com/ontario-15"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-ace-ontario-15/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoes loisirs",
+    "modele": "Ontario 16",
+    "specifications": {
+      "longueur_pieds": "16,2",
+      "longueur_m": "4,94",
+      "poids_kg": "37",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 2.0,
+      "possibilite_chargement": 4.0,
+      "vitesse": 4.0,
+      "maniabilite": 3.0,
+      "stabilite_primaire": 6.0,
+      "stabilite_secondaire": 3.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 6.0,
+      "riviere_classe_I_II": 4.0,
+      "riviere_classe_III_IV": 1.0,
+      "torrent": 0.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 2.0,
+      "surf": 3.0
+    },
+    "image_url": null,
+    "emoji": "🛶",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-ace-ontario-16/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-ontario-16",
+      "https://www.canoediffusion.com/produit/ontario-16",
+      "https://www.canoediffusion.com/ontario-16"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-ace-ontario-16/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoes loisirs",
+    "modele": "Huron 15",
+    "specifications": {
+      "longueur_pieds": "15",
+      "longueur_m": "4,57",
+      "poids_kg": "23,5",
+      "nb_max_pagayeurs": 2
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 2.0,
+      "possibilite_chargement": 4.0,
+      "vitesse": 4.0,
+      "maniabilite": 5.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 6.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 1.0,
+      "torrent": 0.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 4.0,
+      "surf": 3.0
+    },
+    "image_url": null,
+    "emoji": "🛶",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-huron-15/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-huron-15",
+      "https://www.canoediffusion.com/produit/huron-15",
+      "https://www.canoediffusion.com/huron-15"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-huron-15/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoes loisirs",
+    "modele": "Huron 16",
+    "specifications": {
+      "longueur_pieds": "16",
+      "longueur_m": "4,88",
+      "poids_kg": "26",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 2.0,
+      "possibilite_chargement": 5.0,
+      "vitesse": 5.0,
+      "maniabilite": 5.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 6.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 1.0,
+      "torrent": 0.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 4.0,
+      "surf": 3.0
+    },
+    "image_url": null,
+    "emoji": "🛶",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-huron-16-t-formex/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-huron-16",
+      "https://www.canoediffusion.com/produit/huron-16",
+      "https://www.canoediffusion.com/huron-16"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-huron-16-t-formex/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoes loisirs",
+    "modele": "Triton 16",
+    "specifications": {
+      "longueur_pieds": "16",
+      "longueur_m": "4,80",
+      "poids_kg": "25",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 1.0,
+      "possibilite_chargement": 6.0,
+      "vitesse": 6.0,
+      "maniabilite": 3.0,
+      "stabilite_primaire": 6.0,
+      "stabilite_secondaire": 3.0,
+      "stabilite_directionnelle": 6.0
+    },
+    "aptitudes": {
+      "etang_lac": 6.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 1.0,
+      "torrent": 0.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 5.0,
+      "surf": 3.0
+    },
+    "image_url": null,
+    "emoji": "🛶",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-triton-16/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-triton-16",
+      "https://www.canoediffusion.com/produit/triton-16",
+      "https://www.canoediffusion.com/triton-16"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-triton-16/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoes loisirs",
+    "modele": "Ranger 16",
+    "specifications": {
+      "longueur_pieds": "16",
+      "longueur_m": "4,81",
+      "poids_kg": "36",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 3.0,
+      "possibilite_chargement": 5.0,
+      "vitesse": 6.0,
+      "maniabilite": 4.0,
+      "stabilite_primaire": 4.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 6.0
+    },
+    "aptitudes": {
+      "etang_lac": 6.0,
+      "riviere_classe_I_II": 5.0,
+      "riviere_classe_III_IV": 3.0,
+      "torrent": 0.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 4.0,
+      "surf": 5.0
+    },
+    "image_url": null,
+    "emoji": "🛶",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-ranger-16/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-ranger-16",
+      "https://www.canoediffusion.com/produit/ranger-16",
+      "https://www.canoediffusion.com/ranger-16"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-ranger-16/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoes loisirs",
+    "modele": "Ranger 17",
+    "specifications": {
+      "longueur_pieds": "17",
+      "longueur_m": "5,21",
+      "poids_kg": "38,5",
+      "nb_max_pagayeurs": 4
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 2.0,
+      "possibilite_chargement": 6.0,
+      "vitesse": 6.0,
+      "maniabilite": 3.0,
+      "stabilite_primaire": 6.0,
+      "stabilite_secondaire": 2.0,
+      "stabilite_directionnelle": 6.0
+    },
+    "aptitudes": {
+      "etang_lac": 6.0,
+      "riviere_classe_I_II": 5.0,
+      "riviere_classe_III_IV": 1.0,
+      "torrent": 0.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 4.0,
+      "surf": 1.0
+    },
+    "image_url": null,
+    "emoji": "🛶",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-ranger-17/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-ranger-17",
+      "https://www.canoediffusion.com/produit/ranger-17",
+      "https://www.canoediffusion.com/ranger-17"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-ranger-17/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoes loisirs",
+    "modele": "Huron 17",
+    "specifications": {
+      "longueur_pieds": "17",
+      "longueur_m": "5,18",
+      "poids_kg": "27",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 2.0,
+      "possibilite_chargement": 6.0,
+      "vitesse": 6.0,
+      "maniabilite": 5.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 6.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 1.0,
+      "torrent": 0.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 3.0,
+      "surf": 3.0
+    },
+    "image_url": null,
+    "emoji": "🛶",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-huron-17-lite/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-huron-17",
+      "https://www.canoediffusion.com/produit/huron-17",
+      "https://www.canoediffusion.com/huron-17"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-huron-17-lite/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe riviere",
+    "modele": "Vertige aventure",
+    "specifications": {
+      "longueur_pieds": "12,8",
+      "longueur_m": "3,91",
+      "poids_kg": "24",
+      "nb_max_pagayeurs": 1
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 5.0,
+      "possibilite_chargement": 4.0,
+      "vitesse": 3.0,
+      "maniabilite": 6.0,
+      "stabilite_primaire": 3.0,
+      "stabilite_secondaire": 6.0,
+      "stabilite_directionnelle": 3.0
+    },
+    "aptitudes": {
+      "etang_lac": 3.0,
+      "riviere_classe_I_II": 4.0,
+      "riviere_classe_III_IV": 6.0,
+      "torrent": 3.0,
+      "canot_camping": 4.0,
+      "expedition_sportive": 6.0,
+      "surf": 5.0
+    },
+    "image_url": null,
+    "emoji": "🚣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-vertige-aventure/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-vertige-aventure",
+      "https://www.canoediffusion.com/produit/vertige-aventure",
+      "https://www.canoediffusion.com/vertige-aventure"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-vertige-aventure/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe riviere",
+    "modele": "Vertige X avent.",
+    "specifications": {
+      "longueur_pieds": "14",
+      "longueur_m": "4,27",
+      "poids_kg": "28",
+      "nb_max_pagayeurs": 2
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 5.0,
+      "possibilite_chargement": 5.0,
+      "vitesse": 3.0,
+      "maniabilite": 4.0,
+      "stabilite_primaire": 4.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 3.0
+    },
+    "aptitudes": {
+      "etang_lac": 2.0,
+      "riviere_classe_I_II": 4.0,
+      "riviere_classe_III_IV": 5.0,
+      "torrent": 4.0,
+      "canot_camping": 5.0,
+      "expedition_sportive": 6.0,
+      "surf": 4.0
+    },
+    "image_url": null,
+    "emoji": "🚣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-vertige-aventure/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-vertige-x-avent",
+      "https://www.canoediffusion.com/produit/vertige-x-avent",
+      "https://www.canoediffusion.com/vertige-x-avent"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-vertige-aventure/",
+    "verification_score": 0.6666666666666666,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe riviere",
+    "modele": "Pocket Canyon",
+    "specifications": {
+      "longueur_pieds": "14,6",
+      "longueur_m": "4,42",
+      "poids_kg": "26",
+      "nb_max_pagayeurs": 2
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 2.0,
+      "caractere_sportif": 5.0,
+      "possibilite_chargement": 3.0,
+      "vitesse": 3.0,
+      "maniabilite": 6.0,
+      "stabilite_primaire": 3.0,
+      "stabilite_secondaire": 6.0,
+      "stabilite_directionnelle": 4.0
+    },
+    "aptitudes": {
+      "etang_lac": 3.0,
+      "riviere_classe_I_II": 4.0,
+      "riviere_classe_III_IV": 6.0,
+      "torrent": 3.0,
+      "canot_camping": 5.0,
+      "expedition_sportive": 6.0,
+      "surf": 4.0
+    },
+    "image_url": null,
+    "emoji": "🚣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-pocket-canyon/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-pocket-canyon",
+      "https://www.canoediffusion.com/produit/pocket-canyon",
+      "https://www.canoediffusion.com/pocket-canyon"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-pocket-canyon/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe riviere",
+    "modele": "Prospecteur 15",
+    "specifications": {
+      "longueur_pieds": "15",
+      "longueur_m": "4,57",
+      "poids_kg": "26",
+      "nb_max_pagayeurs": 2
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 3.0,
+      "possibilite_chargement": 4.0,
+      "vitesse": 4.0,
+      "maniabilite": 5.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 4.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 3.0,
+      "torrent": 1.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 5.0,
+      "surf": 4.0
+    },
+    "image_url": null,
+    "emoji": "🚣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-prospecteur-15/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-prospecteur-15",
+      "https://www.canoediffusion.com/produit/prospecteur-15",
+      "https://www.canoediffusion.com/prospecteur-15"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-prospecteur-15/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe riviere",
+    "modele": "PakCanoe 15",
+    "specifications": {
+      "longueur_pieds": "15",
+      "longueur_m": "4,55",
+      "poids_kg": "22",
+      "nb_max_pagayeurs": 2
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 3.0,
+      "possibilite_chargement": 5.0,
+      "vitesse": 4.0,
+      "maniabilite": 5.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 5.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 4.0,
+      "torrent": 0.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 5.0,
+      "surf": 4.0
+    },
+    "image_url": null,
+    "emoji": "🚣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/pakcanoe-15/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-pakcanoe-15",
+      "https://www.canoediffusion.com/produit/pakcanoe-15",
+      "https://www.canoediffusion.com/pakcanoe-15"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/pakcanoe-15/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe riviere",
+    "modele": "PakCanoe 16",
+    "specifications": {
+      "longueur_pieds": "16",
+      "longueur_m": "4,90",
+      "poids_kg": "24",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 3.0,
+      "possibilite_chargement": 5.0,
+      "vitesse": 5.0,
+      "maniabilite": 5.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 5.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 4.0,
+      "torrent": 0.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 6.0,
+      "surf": 4.0
+    },
+    "image_url": null,
+    "emoji": "🚣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/pakcanoe-16/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-pakcanoe-16",
+      "https://www.canoediffusion.com/produit/pakcanoe-16",
+      "https://www.canoediffusion.com/pakcanoe-16"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/pakcanoe-16/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe riviere",
+    "modele": "Prospecteur 16",
+    "specifications": {
+      "longueur_pieds": "16",
+      "longueur_m": "4,88",
+      "poids_kg": "26",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 3.0,
+      "possibilite_chargement": 5.0,
+      "vitesse": 5.0,
+      "maniabilite": 5.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 4.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 3.0,
+      "torrent": 1.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 5.0,
+      "surf": 4.0
+    },
+    "image_url": null,
+    "emoji": "🚣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-prospecteur-16/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-prospecteur-16",
+      "https://www.canoediffusion.com/produit/prospecteur-16",
+      "https://www.canoediffusion.com/prospecteur-16"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-prospecteur-16/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe riviere",
+    "modele": "Présage",
+    "specifications": {
+      "longueur_pieds": "16",
+      "longueur_m": "4,85",
+      "poids_kg": "32",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 4.0,
+      "possibilite_chargement": 5.0,
+      "vitesse": 5.0,
+      "maniabilite": 6.0,
+      "stabilite_primaire": 4.0,
+      "stabilite_secondaire": 5.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 4.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 4.0,
+      "torrent": 1.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 5.0,
+      "surf": 4.0
+    },
+    "image_url": null,
+    "emoji": "🚣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/canoe-présage",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-présage",
+      "https://www.canoediffusion.com/produit/présage",
+      "https://www.canoediffusion.com/présage"
+    ],
+    "verified_url": "https://www.canoediffusion.com/canoe-présage",
+    "verification_score": 0.5
+  },
+  {
+    "categorie": "Canoe riviere",
+    "modele": "Prospecteur Sport",
+    "specifications": {
+      "longueur_pieds": "16",
+      "longueur_m": "4,88",
+      "poids_kg": "26,4",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 2.0,
+      "caractere_sportif": 5.0,
+      "possibilite_chargement": 5.0,
+      "vitesse": 4.0,
+      "maniabilite": 6.0,
+      "stabilite_primaire": 3.0,
+      "stabilite_secondaire": 6.0,
+      "stabilite_directionnelle": 4.0
+    },
+    "aptitudes": {
+      "etang_lac": 3.0,
+      "riviere_classe_I_II": 5.0,
+      "riviere_classe_III_IV": 4.0,
+      "torrent": 2.0,
+      "canot_camping": 5.0,
+      "expedition_sportive": 6.0,
+      "surf": 3.0
+    },
+    "image_url": null,
+    "emoji": "🚣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-prospecteur-sport/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-prospecteur-sport",
+      "https://www.canoediffusion.com/produit/prospecteur-sport",
+      "https://www.canoediffusion.com/prospecteur-sport"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-prospecteur-sport/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe riviere",
+    "modele": "Canyon",
+    "specifications": {
+      "longueur_pieds": "16,6",
+      "longueur_m": "5,00",
+      "poids_kg": "28",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 2.0,
+      "caractere_sportif": 5.0,
+      "possibilite_chargement": 6.0,
+      "vitesse": 6.0,
+      "maniabilite": 6.0,
+      "stabilite_primaire": 3.0,
+      "stabilite_secondaire": 6.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 3.0,
+      "riviere_classe_I_II": 5.0,
+      "riviere_classe_III_IV": 6.0,
+      "torrent": 2.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 6.0,
+      "surf": 2.0
+    },
+    "image_url": null,
+    "emoji": "🚣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-pocket-canyon/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-canyon",
+      "https://www.canoediffusion.com/produit/canyon",
+      "https://www.canoediffusion.com/canyon"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-pocket-canyon/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe riviere",
+    "modele": "Prospecteur 17",
+    "specifications": {
+      "longueur_pieds": "17",
+      "longueur_m": "5,18",
+      "poids_kg": "34",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 3.0,
+      "possibilite_chargement": 5.0,
+      "vitesse": 5.0,
+      "maniabilite": 5.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 5.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 5.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 3.0,
+      "torrent": 1.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 5.0,
+      "surf": 3.0
+    },
+    "image_url": null,
+    "emoji": "🚣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-prospecteur-17/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-prospecteur-17",
+      "https://www.canoediffusion.com/produit/prospecteur-17",
+      "https://www.canoediffusion.com/prospecteur-17"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-prospecteur-17/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe riviere",
+    "modele": "PakCanoe 17",
+    "specifications": {
+      "longueur_pieds": "17",
+      "longueur_m": "5,20",
+      "poids_kg": "25,5",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 3.0,
+      "possibilite_chargement": 6.0,
+      "vitesse": 6.0,
+      "maniabilite": 4.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 6.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 3.0,
+      "torrent": 0.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 6.0,
+      "surf": 3.0
+    },
+    "image_url": null,
+    "emoji": "🚣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/pakcanoe-17/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-pakcanoe-17",
+      "https://www.canoediffusion.com/produit/pakcanoe-17",
+      "https://www.canoediffusion.com/pakcanoe-17"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/pakcanoe-17/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe riviere",
+    "modele": "Miramichi 18",
+    "specifications": {
+      "longueur_pieds": "18",
+      "longueur_m": "5,50",
+      "poids_kg": "39",
+      "nb_max_pagayeurs": 4
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 2.0,
+      "possibilite_chargement": 6.0,
+      "vitesse": 6.0,
+      "maniabilite": 5.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 6.0
+    },
+    "aptitudes": {
+      "etang_lac": 5.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 2.0,
+      "torrent": 0.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 5.0,
+      "surf": 3.0
+    },
+    "image_url": null,
+    "emoji": "🚣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-miramichi-18/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-miramichi-18",
+      "https://www.canoediffusion.com/produit/miramichi-18",
+      "https://www.canoediffusion.com/miramichi-18"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-miramichi-18/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe riviere",
+    "modele": "Miramichi 20",
+    "specifications": {
+      "longueur_pieds": "20",
+      "longueur_m": "6,10",
+      "poids_kg": "44",
+      "nb_max_pagayeurs": 5
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 5.0,
+      "possibilite_chargement": 6.0,
+      "vitesse": 6.0,
+      "maniabilite": 5.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 5.0,
+      "stabilite_directionnelle": 6.0
+    },
+    "aptitudes": {
+      "etang_lac": 3.0,
+      "riviere_classe_I_II": 6.0,
+      "riviere_classe_III_IV": 5.0,
+      "torrent": 0.0,
+      "canot_camping": 6.0,
+      "expedition_sportive": 6.0,
+      "surf": 4.0
+    },
+    "image_url": null,
+    "emoji": "🚣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-miramichi-20/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-miramichi-20",
+      "https://www.canoediffusion.com/produit/miramichi-20",
+      "https://www.canoediffusion.com/miramichi-20"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-miramichi-20/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe Eau vive",
+    "modele": "Excite",
+    "specifications": {
+      "longueur_pieds": "9,6",
+      "longueur_m": "2,89",
+      "poids_kg": "23",
+      "nb_max_pagayeurs": 1
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 3.0,
+      "caractere_sportif": 6.0,
+      "possibilite_chargement": 0.0,
+      "vitesse": 3.0,
+      "maniabilite": 6.0,
+      "stabilite_primaire": 1.0,
+      "stabilite_secondaire": 6.0,
+      "stabilite_directionnelle": 1.0
+    },
+    "aptitudes": {
+      "etang_lac": 2.0,
+      "riviere_classe_I_II": 2.0,
+      "riviere_classe_III_IV": 6.0,
+      "torrent": 6.0,
+      "canot_camping": 0.0,
+      "expedition_sportive": 0.0,
+      "surf": 4.0
+    },
+    "image_url": null,
+    "emoji": "💨",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/canoe-excite",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-excite",
+      "https://www.canoediffusion.com/produit/excite",
+      "https://www.canoediffusion.com/excite"
+    ],
+    "verified_url": "https://www.canoediffusion.com/canoe-excite",
+    "verification_score": 0.5
+  },
+  {
+    "categorie": "Canoe Eau vive",
+    "modele": "Extasy",
+    "specifications": {
+      "longueur_pieds": "9",
+      "longueur_m": "2,75",
+      "poids_kg": "19",
+      "nb_max_pagayeurs": 1
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 3.0,
+      "caractere_sportif": 6.0,
+      "possibilite_chargement": 0.0,
+      "vitesse": 3.0,
+      "maniabilite": 6.0,
+      "stabilite_primaire": 1.0,
+      "stabilite_secondaire": 6.0,
+      "stabilite_directionnelle": 1.0
+    },
+    "aptitudes": {
+      "etang_lac": 2.0,
+      "riviere_classe_I_II": 2.0,
+      "riviere_classe_III_IV": 6.0,
+      "torrent": 6.0,
+      "canot_camping": 0.0,
+      "expedition_sportive": 0.0,
+      "surf": 4.0
+    },
+    "image_url": null,
+    "emoji": "💨",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/reserve-de-flottabilite-arriere-pour-esquif-extasy/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-extasy",
+      "https://www.canoediffusion.com/produit/extasy",
+      "https://www.canoediffusion.com/extasy"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/reserve-de-flottabilite-arriere-pour-esquif-extasy/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe Eau vive",
+    "modele": "L'Edge L & SL",
+    "specifications": {
+      "longueur_pieds": "9,2",
+      "longueur_m": "2,80",
+      "poids_kg": "19,5",
+      "nb_max_pagayeurs": 1
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 2.0,
+      "caractere_sportif": 6.0,
+      "possibilite_chargement": 0.0,
+      "vitesse": 2.0,
+      "maniabilite": 5.0,
+      "stabilite_primaire": 4.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 2.0
+    },
+    "aptitudes": {
+      "etang_lac": 1.0,
+      "riviere_classe_I_II": 2.0,
+      "riviere_classe_III_IV": 6.0,
+      "torrent": 6.0,
+      "canot_camping": 0.0,
+      "expedition_sportive": 0.0,
+      "surf": 5.0
+    },
+    "image_url": null,
+    "emoji": "💨",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/canoe-ledge-l-sl",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-ledge-l-sl",
+      "https://www.canoediffusion.com/produit/ledge-l-sl",
+      "https://www.canoediffusion.com/ledge-l-sl"
+    ],
+    "verified_url": "https://www.canoediffusion.com/canoe-ledge-l-sl",
+    "verification_score": 0.5
+  },
+  {
+    "categorie": "Canoe Eau vive",
+    "modele": "Ocoee",
+    "specifications": {
+      "longueur_pieds": "11,2",
+      "longueur_m": "3,35",
+      "poids_kg": "22",
+      "nb_max_pagayeurs": 1
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 2.0,
+      "caractere_sportif": 6.0,
+      "possibilite_chargement": 1.0,
+      "vitesse": 3.0,
+      "maniabilite": 6.0,
+      "stabilite_primaire": 3.0,
+      "stabilite_secondaire": 5.0,
+      "stabilite_directionnelle": 2.0
+    },
+    "aptitudes": {
+      "etang_lac": 1.0,
+      "riviere_classe_I_II": 2.0,
+      "riviere_classe_III_IV": 6.0,
+      "torrent": 6.0,
+      "canot_camping": 1.0,
+      "expedition_sportive": 1.0,
+      "surf": 5.0
+    },
+    "image_url": null,
+    "emoji": "💨",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-ocoee/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-ocoee",
+      "https://www.canoediffusion.com/produit/ocoee",
+      "https://www.canoediffusion.com/ocoee"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-ocoee/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe Eau vive",
+    "modele": "Vertige",
+    "specifications": {
+      "longueur_pieds": "12,8",
+      "longueur_m": "3,91",
+      "poids_kg": "24",
+      "nb_max_pagayeurs": 1
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 5.0,
+      "possibilite_chargement": 2.0,
+      "vitesse": 4.0,
+      "maniabilite": 4.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 3.0
+    },
+    "aptitudes": {
+      "etang_lac": 3.0,
+      "riviere_classe_I_II": 3.0,
+      "riviere_classe_III_IV": 6.0,
+      "torrent": 5.0,
+      "canot_camping": 2.0,
+      "expedition_sportive": 2.0,
+      "surf": 5.0
+    },
+    "image_url": null,
+    "emoji": "💨",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-vertige-aventure/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-vertige",
+      "https://www.canoediffusion.com/produit/vertige",
+      "https://www.canoediffusion.com/vertige"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-vertige-aventure/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe Eau vive",
+    "modele": "Raven",
+    "specifications": {
+      "longueur_pieds": "11,3",
+      "longueur_m": "3,43",
+      "poids_kg": "23",
+      "nb_max_pagayeurs": 1
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 5.0,
+      "possibilite_chargement": 0.0,
+      "vitesse": 2.0,
+      "maniabilite": 4.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 3.0
+    },
+    "aptitudes": {
+      "etang_lac": 2.0,
+      "riviere_classe_I_II": 2.0,
+      "riviere_classe_III_IV": 6.0,
+      "torrent": 6.0,
+      "canot_camping": 1.0,
+      "expedition_sportive": 2.0,
+      "surf": 6.0
+    },
+    "image_url": null,
+    "emoji": "💨",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-raven/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-raven",
+      "https://www.canoediffusion.com/produit/raven",
+      "https://www.canoediffusion.com/raven"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-raven/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe Eau vive",
+    "modele": "Zéphyr 2.0",
+    "specifications": {
+      "longueur_pieds": "11,3",
+      "longueur_m": "3,43",
+      "poids_kg": "22",
+      "nb_max_pagayeurs": 1
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 2.0,
+      "caractere_sportif": 5.0,
+      "possibilite_chargement": 0.0,
+      "vitesse": 3.0,
+      "maniabilite": 5.0,
+      "stabilite_primaire": 3.0,
+      "stabilite_secondaire": 5.0,
+      "stabilite_directionnelle": 3.0
+    },
+    "aptitudes": {
+      "etang_lac": 2.0,
+      "riviere_classe_I_II": 3.0,
+      "riviere_classe_III_IV": 6.0,
+      "torrent": 5.0,
+      "canot_camping": 1.0,
+      "expedition_sportive": 0.0,
+      "surf": 5.0
+    },
+    "image_url": null,
+    "emoji": "💨",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/canoe-zéphyr-20",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-zéphyr-20",
+      "https://www.canoediffusion.com/produit/zéphyr-20",
+      "https://www.canoediffusion.com/zéphyr-20"
+    ],
+    "verified_url": "https://www.canoediffusion.com/canoe-zéphyr-20",
+    "verification_score": 0.5
+  },
+  {
+    "categorie": "Canoe Eau vive",
+    "modele": "Spark",
+    "specifications": {
+      "longueur_pieds": "11,7",
+      "longueur_m": "3,55",
+      "poids_kg": "21",
+      "nb_max_pagayeurs": 1
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 3.0,
+      "caractere_sportif": 6.0,
+      "possibilite_chargement": 0.0,
+      "vitesse": 5.0,
+      "maniabilite": 6.0,
+      "stabilite_primaire": 2.0,
+      "stabilite_secondaire": 6.0,
+      "stabilite_directionnelle": 2.0
+    },
+    "aptitudes": {
+      "etang_lac": 3.0,
+      "riviere_classe_I_II": 4.0,
+      "riviere_classe_III_IV": 6.0,
+      "torrent": 5.0,
+      "canot_camping": 1.0,
+      "expedition_sportive": 0.0,
+      "surf": 5.0
+    },
+    "image_url": null,
+    "emoji": "💨",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-spark/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-spark",
+      "https://www.canoediffusion.com/produit/spark",
+      "https://www.canoediffusion.com/spark"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-spark/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe Eau vive",
+    "modele": "Vertige X",
+    "specifications": {
+      "longueur_pieds": "14",
+      "longueur_m": "4,27",
+      "poids_kg": "28",
+      "nb_max_pagayeurs": 2
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 2.0,
+      "caractere_sportif": 5.0,
+      "possibilite_chargement": 2.0,
+      "vitesse": 4.0,
+      "maniabilite": 4.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 4.0
+    },
+    "aptitudes": {
+      "etang_lac": 3.0,
+      "riviere_classe_I_II": 4.0,
+      "riviere_classe_III_IV": 6.0,
+      "torrent": 2.0,
+      "canot_camping": 2.0,
+      "expedition_sportive": 2.0,
+      "surf": 5.0
+    },
+    "image_url": null,
+    "emoji": "💨",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-vertige-aventure/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-vertige-x",
+      "https://www.canoediffusion.com/produit/vertige-x",
+      "https://www.canoediffusion.com/vertige-x"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-vertige-aventure/",
+    "verification_score": 0.5,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe peche- cahasse",
+    "modele": "Héron",
+    "specifications": {
+      "longueur_pieds": "14,5",
+      "longueur_m": "4,40",
+      "poids_kg": "35",
+      "nb_max_pagayeurs": 2
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 3.0,
+      "possibilite_chargement": 4.0,
+      "vitesse": 4.0,
+      "maniabilite": 4.0,
+      "stabilite_primaire": 3.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 4.0
+    },
+    "aptitudes": {
+      "etang_lac": 5.0,
+      "riviere_classe_I_II": 5.0,
+      "riviere_classe_III_IV": 3.0,
+      "torrent": 0.0,
+      "canot_camping": 5.0,
+      "expedition_sportive": 4.0,
+      "surf": 2.0
+    },
+    "image_url": null,
+    "emoji": "🎣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/canoe-héron",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-héron",
+      "https://www.canoediffusion.com/produit/héron",
+      "https://www.canoediffusion.com/héron"
+    ],
+    "verified_url": "https://www.canoediffusion.com/canoe-héron",
+    "verification_score": 0.5
+  },
+  {
+    "categorie": "Canoe peche- cahasse",
+    "modele": "Mallard XL",
+    "specifications": {
+      "longueur_pieds": "12,4",
+      "longueur_m": "3,78",
+      "poids_kg": "32",
+      "nb_max_pagayeurs": 2
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 1.0,
+      "possibilite_chargement": 2.0,
+      "vitesse": 2.0,
+      "maniabilite": 4.0,
+      "stabilite_primaire": 3.0,
+      "stabilite_secondaire": 3.0,
+      "stabilite_directionnelle": 3.0
+    },
+    "aptitudes": {
+      "etang_lac": 6.0,
+      "riviere_classe_I_II": 4.0,
+      "riviere_classe_III_IV": 0.0,
+      "torrent": 0.0,
+      "canot_camping": 1.0,
+      "expedition_sportive": 2.0,
+      "surf": 1.0
+    },
+    "image_url": null,
+    "emoji": "🎣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-mallard-xl/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-mallard-xl",
+      "https://www.canoediffusion.com/produit/mallard-xl",
+      "https://www.canoediffusion.com/mallard-xl"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-mallard-xl/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe peche- cahasse",
+    "modele": "Cargo 17",
+    "specifications": {
+      "longueur_pieds": "17",
+      "longueur_m": "5,12",
+      "poids_kg": "48",
+      "nb_max_pagayeurs": 4
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 4.0,
+      "possibilite_chargement": 6.0,
+      "vitesse": 6.0,
+      "maniabilite": 3.0,
+      "stabilite_primaire": 3.0,
+      "stabilite_secondaire": 5.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 5.0,
+      "riviere_classe_I_II": 5.0,
+      "riviere_classe_III_IV": 4.0,
+      "torrent": 0.0,
+      "canot_camping": 5.0,
+      "expedition_sportive": 5.0,
+      "surf": 2.0
+    },
+    "image_url": null,
+    "emoji": "🎣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-cargo-17-occasion/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-cargo-17",
+      "https://www.canoediffusion.com/produit/cargo-17",
+      "https://www.canoediffusion.com/cargo-17"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-cargo-17-occasion/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe peche- cahasse",
+    "modele": "Rangeley 15",
+    "specifications": {
+      "longueur_pieds": "15",
+      "longueur_m": "4,57",
+      "poids_kg": "52",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 2.0,
+      "possibilite_chargement": 5.0,
+      "vitesse": 5.0,
+      "maniabilite": 3.0,
+      "stabilite_primaire": 4.0,
+      "stabilite_secondaire": 5.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 5.0,
+      "riviere_classe_I_II": 5.0,
+      "riviere_classe_III_IV": 0.0,
+      "torrent": 0.0,
+      "canot_camping": 3.0,
+      "expedition_sportive": 3.0,
+      "surf": 1.0
+    },
+    "image_url": null,
+    "emoji": "🎣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-rangeley-15/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-rangeley-15",
+      "https://www.canoediffusion.com/produit/rangeley-15",
+      "https://www.canoediffusion.com/rangeley-15"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-rangeley-15/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe peche- cahasse",
+    "modele": "Rangeley 17",
+    "specifications": {
+      "longueur_pieds": "17",
+      "longueur_m": "5,18",
+      "poids_kg": "57",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 2.0,
+      "possibilite_chargement": 6.0,
+      "vitesse": 6.0,
+      "maniabilite": 3.0,
+      "stabilite_primaire": 4.0,
+      "stabilite_secondaire": 5.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 5.0,
+      "riviere_classe_I_II": 5.0,
+      "riviere_classe_III_IV": 0.0,
+      "torrent": 0.0,
+      "canot_camping": 3.0,
+      "expedition_sportive": 3.0,
+      "surf": 1.0
+    },
+    "image_url": null,
+    "emoji": "🎣",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-esquif-rangeley-17/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-rangeley-17",
+      "https://www.canoediffusion.com/produit/rangeley-17",
+      "https://www.canoediffusion.com/rangeley-17"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-esquif-rangeley-17/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe gonflable",
+    "modele": "Palava",
+    "specifications": {
+      "longueur_pieds": "13,10",
+      "longueur_m": "4,00",
+      "poids_kg": "20",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 3.0,
+      "possibilite_chargement": 4.0,
+      "vitesse": 3.0,
+      "maniabilite": 2.0,
+      "stabilite_primaire": 5.0,
+      "stabilite_secondaire": 3.0,
+      "stabilite_directionnelle": 5.0
+    },
+    "aptitudes": {
+      "etang_lac": 4.0,
+      "riviere_classe_I_II": 5.0,
+      "riviere_classe_III_IV": 3.0,
+      "torrent": 2.0,
+      "canot_camping": 5.0,
+      "expedition_sportive": 5.0,
+      "surf": 4.0
+    },
+    "image_url": null,
+    "emoji": "🎈",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/canoe-gumotex-palava/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-palava",
+      "https://www.canoediffusion.com/produit/palava",
+      "https://www.canoediffusion.com/palava"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/canoe-gumotex-palava/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe gonflable",
+    "modele": "Scout River",
+    "specifications": {
+      "longueur_pieds": "14,7",
+      "longueur_m": "4,50",
+      "poids_kg": "25",
+      "nb_max_pagayeurs": 3
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 5.0,
+      "possibilite_chargement": 5.0,
+      "vitesse": 4.0,
+      "maniabilite": 3.0,
+      "stabilite_primaire": 3.0,
+      "stabilite_secondaire": 3.0,
+      "stabilite_directionnelle": 4.0
+    },
+    "aptitudes": {
+      "etang_lac": 2.0,
+      "riviere_classe_I_II": 4.0,
+      "riviere_classe_III_IV": 6.0,
+      "torrent": 5.0,
+      "canot_camping": 3.0,
+      "expedition_sportive": 6.0,
+      "surf": 3.0
+    },
+    "image_url": null,
+    "emoji": "🎈",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/pack-canoe-gumotex-scout-river-pompe-2-pagaies-reglables/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-scout-river",
+      "https://www.canoediffusion.com/produit/scout-river",
+      "https://www.canoediffusion.com/scout-river"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/pack-canoe-gumotex-scout-river-pompe-2-pagaies-reglables/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  },
+  {
+    "categorie": "Canoe gonflable",
+    "modele": "Baraka",
+    "specifications": {
+      "longueur_pieds": "13,5",
+      "longueur_m": "4,10",
+      "poids_kg": "23,5",
+      "nb_max_pagayeurs": 2
+    },
+    "caracteristiques": {
+      "niveau_pagayeur": 1.0,
+      "caractere_sportif": 6.0,
+      "possibilite_chargement": 2.0,
+      "vitesse": 2.0,
+      "maniabilite": 3.0,
+      "stabilite_primaire": 4.0,
+      "stabilite_secondaire": 4.0,
+      "stabilite_directionnelle": 3.0
+    },
+    "aptitudes": {
+      "etang_lac": 1.0,
+      "riviere_classe_I_II": 2.0,
+      "riviere_classe_III_IV": 6.0,
+      "torrent": 6.0,
+      "canot_camping": 2.0,
+      "expedition_sportive": 4.0,
+      "surf": 4.0
+    },
+    "image_url": null,
+    "emoji": "🎈",
+    "canoe_diffusion_url": "https://www.canoediffusion.com/produit/kit-siege-central-canoe-gumotex-baraka/",
+    "alternative_urls": [
+      "https://www.canoediffusion.com/kayak-baraka",
+      "https://www.canoediffusion.com/produit/baraka",
+      "https://www.canoediffusion.com/baraka"
+    ],
+    "verified_url": "https://www.canoediffusion.com/produit/kit-siege-central-canoe-gumotex-baraka/",
+    "verification_score": 1.0,
+    "manually_verified": false,
+    "sitemap_verified": true
+  }
+]

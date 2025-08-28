@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Admin - ChoisirSonCanoe 🛶</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="admin-header">
+            <h1>🛶 Dashboard Administration</h1>
+            <div class="admin-actions">
+                <button id="addCanoeBtn" class="btn-primary">➕ Ajouter un canoë</button>
+                <a href="/admin/logout" class="btn-secondary">🚪 Déconnexion</a>
+            </div>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h3>📊 Total Canoës</h3>
+                <span class="stat-number">{{ canoes|length }}</span>
+            </div>
+            <div class="stat-card">
+                <h3>🏷️ Catégories</h3>
+                <span class="stat-number">{{ categories|length }}</span>
+            </div>
+        </div>
+
+        <div class="canoe-management">
+            <h2>🔧 Gestion des Canoës</h2>
+            
+            <div class="filters">
+                <select id="categoryFilter">
+                    <option value="">Toutes les catégories</option>
+                    {% for category in categories %}
+                    <option value="{{ category }}">{{ category }}</option>
+                    {% endfor %}
+                </select>
+                <input type="text" id="searchFilter" placeholder="Rechercher un modèle...">
+            </div>
+
+            <div id="canoesList" class="admin-canoes-grid">
+                {% for canoe in canoes %}
+                <div class="admin-canoe-card" data-category="{{ canoe.categorie }}">
+                    <div class="canoe-header">
+                        <h3>{{ canoe.modele }}</h3>
+                        <div class="canoe-actions">
+                            <button class="btn-edit" onclick="editCanoe('{{ canoe.modele }}')">✏️</button>
+                            <button class="btn-delete" onclick="deleteCanoe('{{ canoe.modele }}')">🗑️</button>
+                        </div>
+                    </div>
+                    <div class="canoe-info">
+                        <p><strong>Catégorie:</strong> {{ canoe.categorie }}</p>
+                        <p><strong>Longueur:</strong> {{ canoe.specifications.longueur_m }}m</p>
+                        <p><strong>Pagayeurs:</strong> {{ canoe.specifications.nb_max_pagayeurs }}</p>
+                        {% if canoe.specifications.prix_indicatif_eur %}
+                        <p><strong>Prix:</strong> {{ canoe.specifications.prix_indicatif_eur }}€</p>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal pour ajouter/éditer -->
+    <div id="canoeModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modalTitle">Ajouter un canoë</h2>
+            <form id="canoeForm">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="modele">Modèle *</label>
+                        <input type="text" id="modele" name="modele" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="categorie">Catégorie *</label>
+                        <select id="categorie" name="categorie" required>
+                            {% for category in categories %}
+                            <option value="{{ category }}">{{ category }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </div>
+                
+                <h3>Spécifications</h3>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="longueur_m">Longueur (m) *</label>
+                        <input type="text" id="longueur_m" name="longueur_m" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="longueur_pieds">Longueur (pieds)</label>
+                        <input type="text" id="longueur_pieds" name="longueur_pieds">
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="largeur_cm">Largeur (cm) *</label>
+                        <input type="number" id="largeur_cm" name="largeur_cm" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="nb_max_pagayeurs">Nb max pagayeurs *</label>
+                        <input type="number" id="nb_max_pagayeurs" name="nb_max_pagayeurs" min="1" max="4" required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="prix_indicatif_eur">Prix indicatif (€)</label>
+                        <input type="number" id="prix_indicatif_eur" name="prix_indicatif_eur">
+                    </div>
+                    <div class="form-group">
+                        <label for="canoe_diffusion_url">URL Canoe Diffusion</label>
+                        <input type="url" id="canoe_diffusion_url" name="canoe_diffusion_url">
+                    </div>
+                </div>
+
+                <h3>Caractéristiques (1-5)</h3>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="niveau_pagayeur">Niveau pagayeur</label>
+                        <input type="number" id="niveau_pagayeur" name="niveau_pagayeur" min="1" max="5" value="3">
+                    </div>
+                    <div class="form-group">
+                        <label for="vitesse">Vitesse</label>
+                        <input type="number" id="vitesse" name="vitesse" min="1" max="5" value="3">
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="stabilite_primaire">Stabilité primaire</label>
+                        <input type="number" id="stabilite_primaire" name="stabilite_primaire" min="1" max="5" value="3">
+                    </div>
+                    <div class="form-group">
+                        <label for="maniabilite">Maniabilité</label>
+                        <input type="number" id="maniabilite" name="maniabilite" min="1" max="5" value="3">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="possibilite_chargement">Possibilité chargement</label>
+                    <input type="number" id="possibilite_chargement" name="possibilite_chargement" min="1" max="5" value="3">
+                </div>
+
+                <h3>Aptitudes (1-5)</h3>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="etang_lac">Étang/Lac</label>
+                        <input type="number" id="etang_lac" name="etang_lac" min="1" max="5" value="3">
+                    </div>
+                    <div class="form-group">
+                        <label for="riviere_calme">Rivière calme</label>
+                        <input type="number" id="riviere_calme" name="riviere_calme" min="1" max="5" value="3">
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="riviere_mouvementee">Rivière mouvementée</label>
+                        <input type="number" id="riviere_mouvementee" name="riviere_mouvementee" min="1" max="5" value="3">
+                    </div>
+                    <div class="form-group">
+                        <label for="eau_vive">Eau vive</label>
+                        <input type="number" id="eau_vive" name="eau_vive" min="1" max="5" value="3">
+                    </div>
+                </div>
+
+                <div class="form-actions">
+                    <button type="button" class="btn-secondary" onclick="closeModal()">Annuler</button>
+                    <button type="submit" class="btn-primary">Sauvegarder</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='admin.js') }}"></script>
+</body>
+</html>
